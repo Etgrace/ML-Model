@@ -46,3 +46,6 @@ Growing trees.. Progress: 69%. Estimated remaining time: 28 seconds.
 
 # ML-Model
 Prueba en SIRUS
+
+
+En las reglas del modelo obtenido con SIRUS, en el then está la probabilidad que sea una intrusión de tipo DoS.
