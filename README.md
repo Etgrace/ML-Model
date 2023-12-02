@@ -1,4 +1,3 @@
-Prueba en SIRUS
 Utilizando el conjunto de datos NSL-KDD, se realizó la siguiente prueba en el algoritmo ML basado en regla SIRUS, para la detección de un ataque de tipo DoS:
 ## cargar SIRUS
  	require(sirus)
